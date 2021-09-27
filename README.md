@@ -1,5 +1,3 @@
-
-
 # Secured registration form connected to database.
 Easiest way to run:
 - php artisan serve
