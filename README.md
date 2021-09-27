@@ -1,6 +1,9 @@
 # Secured registration form connected to database.
 Easiest way to run:
-- php artisan serve
+```sh
+php artisan serve
+```
+- 
 
 - [ ] setup project
 - [ ] configured database settings
