@@ -4,7 +4,8 @@ Easiest way to run:
 ` $ php artisan serve `
 
 - [x] setup project
-- [ ] configured database settings
+- [x] configured database settings
+- [ ] create models and migrations for database
 
 ## Frontend
 
