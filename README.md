@@ -3,7 +3,7 @@ Easiest way to run:
 
 ` $ php artisan serve `
 
-- [ ] setup project
+- [x] setup project
 - [ ] configured database settings
 
 ## Frontend
